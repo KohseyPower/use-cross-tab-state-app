@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-I created a React hook to share state between tabs using localStorage, without making the data persist in localStorage : 
+I created a React hook to share state between tabs using localStorage, without making the data persist in localStorage.
 
 [useCrossTabState](src/useCrossTabState.tsx)
 
